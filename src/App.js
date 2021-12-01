@@ -19,7 +19,7 @@ function App() {
   );
 
   const handleChange = e => {
-    setSearchField(e)
+    setSearchField(e);
   }
 
   return (
