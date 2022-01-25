@@ -1,3 +1,19 @@
+# Monsters Rollodex
+
+:dart: React basics
+
+- Create React App
+- Hooks vs Classes
+- Dynamic Content
+- SPA
+- Fetching Content
+- Card List, Card, Search and Box Component
+- SearchField State
+- React Events
+- Filtering State
+
+![alt text](monsters.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
